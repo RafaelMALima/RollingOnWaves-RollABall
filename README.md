@@ -1,4 +1,4 @@
-#Rolling on waves
+# Rolling on waves
 
 Insper 2024.1 Roll-a-ball game jam submission.
 
